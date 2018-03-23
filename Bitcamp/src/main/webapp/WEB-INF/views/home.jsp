@@ -13,6 +13,8 @@
 <div id="wrapper">
   <h1></h1>
 </div>
+<div id="contents">
+</div>
 </body>
 </html>
 <script>
